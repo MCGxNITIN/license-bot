@@ -25,12 +25,12 @@ def keep_alive():
 # ==========================================
 # Variables ko Render Environment Variables se read karein
 # Variables ko Render Environment Variables se read karein
-TOKEN    = os.getenv("DISCORD_TOKEN")
+TOKEN    = os.getenv("MTU0NjkwNjMwMjQ0ODY3Mjc5OA.Grvgdc.q2RGqk_wFPtk62yN1hxXOuOFTa8kChtq_qHIKA")
 GUILD_ID = int(os.getenv("GUILD_ID", "1525181999147388958"))
 
 API_URL  = "https://auth.terminalx999.online/api_admin.php"
-API_KEY  = os.getenv("API_KEY")
-APP_ID   = os.getenv("APP_ID")
+API_KEY  = os.getenv("TX999_1fc0134c4c418cf9f0817f355ac10cf7e5f73cf899a83bbf4731e4eec3929870")
+APP_ID   = os.getenv("9f087d585fbd666572fc24b7")
 
 intents = discord.Intents.default()
 bot = commands.Bot(command_prefix="!", intents=intents)
