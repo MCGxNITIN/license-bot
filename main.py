@@ -21,7 +21,7 @@ def keep_alive():
 # ==========================================
 # TerminalX999 - License Key Discord Bot
 # ==========================================
-TOKEN    = "MTU0NTM4MTc1NzgyNDc5ODc4MQ.GPSlah.Vow134vi-UByObvqdd1TRsHoJ7AQxhibBW-sPg"
+TOKEN    = "MTU0NTM4MTc1NzgyNDc5ODc4MQ.GbghuY.s5GNvIZPpDJlKG7eJlFPABe3RTDNcNPItDTMfY"
 GUILD_ID = 1525181999147388958  # यहाँ अपना Server ID डालें
 
 API_URL  = "https://auth.terminalx999.online/api_admin.php"
